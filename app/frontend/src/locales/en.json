@@ -1,0 +1,11 @@
+{
+    "dashboard": "Dashboard",
+    "createParcel": "Create Parcel",
+    "parcelList": "Parcel List",
+    "administratorPage": "Administrator Page",
+    "toggleLanguage": "Toggle language",
+    "toggleUserMenu": "Toggle user menu",
+    "myAccount": "My Account",
+    "logout": "Logout",
+    "toggleNavigationMenu": "Toggle navigation menu"
+  }

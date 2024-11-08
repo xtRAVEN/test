@@ -1,0 +1,17 @@
+version: '3'
+services:
+  web:
+    build: .
+    volumes:
+      - ./app:/app
+      - media_volume:/app/media
+    environment:
+      - DEBUG=1
+      - DATABASE_URL=postgresql://postgres:HlnimhVCSdQWSKAmYwSGOumrwRgGHhdN@postgres.railway.internal:5432/railway
+    ports:
+      - "8000:8000"
+    restart: always
+
+volumes:
+  media_volume:
+

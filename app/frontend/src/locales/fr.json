@@ -1,0 +1,11 @@
+{
+    "dashboard": "Tableau de bord",
+    "createParcel": "Créer une parcelle",
+    "parcelList": "Liste des parcelles",
+    "administratorPage": "Page d'administration",
+    "toggleLanguage": "Changer de langue",
+    "toggleUserMenu": "Basculer le menu utilisateur",
+    "myAccount": "Mon compte",
+    "logout": "Déconnexion",
+    "toggleNavigationMenu": "Basculer le menu de navigation"
+  }
